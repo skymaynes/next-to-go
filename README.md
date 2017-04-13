@@ -1,13 +1,14 @@
 ## Technologies used:
 
-git clone <this repo> [<your local folder>]
-cd <your local folder>
+git clone https://github.com/skymaynes/next-to-go
+cd next-to-go
 yarn install
 yarn start
 
--- use chrome
--- install chrome extension: 'Allow-Control-Allow-Origin: *'
--- browse http://localhost:3000
+Some notes:
+Use chrome
+Install chrome extension: 'Allow-Control-Allow-Origin: *'
+Browse http://localhost:3000
 
 
 
