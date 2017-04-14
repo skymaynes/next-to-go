@@ -16,7 +16,7 @@ Install chrome extension: 'Allow-Control-Allow-Origin: *'
 
 Browse http://localhost:3000
 
-![alt tag](https://github.com/skymaynes/next-to-go/raw/master/screen%20capture.jpeg)
+![alt tag](screen%20capture.jpeg)
 
 
 
